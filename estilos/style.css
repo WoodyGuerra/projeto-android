@@ -38,9 +38,10 @@ div.video{
     padding-bottom: 58%;
 }
 div.video iframe{
+    display: block;
     position: absolute;
-    top 5%;
-    left 5%;
+    top: 5%;
+    left: 5%;
     width: 90%;
     height: 90%;
 }
